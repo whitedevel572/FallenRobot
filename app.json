@@ -1,7 +1,7 @@
 {
-      "name": "Fallen Robot",
+      "name": "ExRobot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://te.legra.ph/file/72e135da30a1a349f2844.jpg",
+      "logo": "https://te.legra.ph/file/b014910e30cd2e24553fb.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/AnonymousX1025/FallenRobot",
+   "repository": "https://github.com/whitedevel572/FallenRobot",
    "stack": "heroku-22",
    "addons": [
       {
